@@ -1,0 +1,60 @@
+
+        <a class="btn" href="#">
+          <img src="profil.png" alt="Profil" />
+          <span>Pengagendaan Surat Masuk/Surat Keluar</span>
+        </a>
+
+        <a class="btn" href="#">
+          <img src="SOP.png" alt="Permohonan" />
+          <span>Arsip Perpanjangan Izin Operasion</span>
+        </a>
+        <a class="btn" href="#">
+          <img src="izinsop.png" alt="Operasional PAUD & PNF" />
+          <span>Arsip Surat Rekomendasi Perpanjangan Izin Operasional</span>
+        </a>
+
+        <a class="btn" href="#">
+          <img src="surat.png" alt="Arsip Surat" />
+          <span>Arsip Surat Masuk/Surat Keluar</span>
+        </a>
+
+        <a class="btn" href="#">
+          <img src="dokumentasi.png" alt="Coming Soon" />
+          <span>Arsip Dokumentasi Kegiatan PAUD dan PNF</span>
+        </a>
+
+
+
+<div class="menu-grid">
+
+  <a href="#" class="menu-card">
+    <img src="profil.png">
+    <span>Pengagendaan Surat</span>
+  </a>
+
+  <a href="#" class="menu-card">
+    <img src="SOP.png">
+    <span>Arsip Perpanjangan Izin</span>
+  </a>
+
+  <a href="#" class="menu-card">
+    <img src="izinsop.png">
+    <span>Rekomendasi Izin</span>
+  </a>
+
+  <a href="#" class="menu-card">
+    <img src="surat.png">
+    <span>Arsip Surat</span>
+  </a>
+
+  <a href="#" class="menu-card">
+    <img src="dokumentasi.png">
+    <span>Dokumentasi</span>
+  </a>
+
+  <a href="#" class="menu-card disabled">
+    <img src="coming.png">
+    <span>Coming Soon</span>
+  </a>
+
+</div>
